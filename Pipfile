@@ -13,7 +13,7 @@ pylint = "*"
 pytest-asyncio = "*"
 
 [packages]
-websockets = "==8.1"
+websockets = "==9.1"
 dataclasses-json = "==0.4.5"
 
 [requires]
